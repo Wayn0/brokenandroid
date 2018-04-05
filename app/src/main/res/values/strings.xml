@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broken App</string>
+    <string name="switch_screen">Switch Screens</string>
+    <string name="second_screen">Hello, I am the second screen</string>
+</resources>
