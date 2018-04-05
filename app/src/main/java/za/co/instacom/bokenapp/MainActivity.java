@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 Intent second = new Intent();
-                second.setClassName("za.co.kbois.vac", "za.co.instacom.bokenapp.ThirdActivity");
+                second.setClassName("za.co.instacom.bokenapp", "za.co.instacom.bokenapp.ThirdActivity");
                 startActivity(second);
             }
         });
@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 Intent second = new Intent();
-                second.setClassName("za.co.kbois.vac", "za.co.instacom.bokenapp.SecondActivity");
+                second.setClassName("za.co.instacom.bokenapp", "za.co.instacom.bokenapp.SecondActivity");
                 startActivity(second);
             }
         });
